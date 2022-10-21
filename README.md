@@ -2,7 +2,7 @@
 
 ***This is only a work around which I don't even know why it works, but it works***
 
-***If there is any possiblity, plz stay against these non-standard propertory protocols. However, I admit sometimes life sucks and leaves no choice***
+***If there is any possiblity, plz stay against these non-standard proprietary protocols. However, I admit sometimes life sucks and leaves no choice***
 
 (I only tested KMail 5.19.2 (21.12.2))
 
